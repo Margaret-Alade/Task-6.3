@@ -1,3 +1,4 @@
+#pragma once
 #include "quadrangl.h"
 
 class Restangle : public Quadrangl {

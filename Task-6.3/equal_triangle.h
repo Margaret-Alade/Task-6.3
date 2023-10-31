@@ -1,3 +1,4 @@
+#pragma once
 #include"triangle.h"
 
 class Equal_triangle : public Triangle {

@@ -1,3 +1,4 @@
+#pragma once
 #include "restangle.h"
 
 class Square : public Restangle {
